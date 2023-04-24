@@ -4,7 +4,7 @@ A simple summer countdown with lots planned for it. Originally created for Park 
 
 Created with HTML 5, JavaScript, and Bootstrap 5.
 
-Current features as of v1.0 {
+Current features as of v1.1 {
 
 - PCSD Countdown
 - Custom Countdown
